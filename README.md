@@ -24,7 +24,7 @@ REco is a mobile-based application written in Dart using Flutter framework, it e
 - The application shows the user different ways to recycle this product.
 - The app shows the logged in user and their recycling collection.
 
-## Built With:
+## Technologies:
 - Flutter.
 - Dart.
 - Android Studio.
@@ -33,7 +33,7 @@ REco is a mobile-based application written in Dart using Flutter framework, it e
 - Android Studio.
 
 ## Software Engineers:
-> *Mhmoud Jundo & Mariam Alahmar*
+### - Mariam Alahmar & Mhmoud Jundo
 
 ## What's next:
 - Personal account.
@@ -42,29 +42,3 @@ REco is a mobile-based application written in Dart using Flutter framework, it e
 
 ## Demo:
 
-
-## Technologies
-
-A list of technologies used within the project:
-* [Technology name](https://example.com): Version 12.3 
-* [Technology name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
-
-
-## Installation
-***
-A little intro about the installation. 
-```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
-Note: To use the application in a special environment use ```lorem ipsum``` to start.
-
-## Collaboration
-***
-Provide instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> Should it encompass several lines?
-> This is how you do *it.*
