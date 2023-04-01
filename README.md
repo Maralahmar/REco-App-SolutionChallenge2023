@@ -1,4 +1,4 @@
-# Reco-app - Recycling Eco
+# Reco App - ## Recycling Eco
 ### It's a project based on recycling to protect and heal the environment whilst developing new ideas and ways of re-using it, it has been worked on for the participation in the Solutions Challenge competition presented by Google(2023).
 
 ## Table of Contents
