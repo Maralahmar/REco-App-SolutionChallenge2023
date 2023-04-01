@@ -1,9 +1,18 @@
 # Reco-app 
 It is a project based on recycling to protect the environment also, it has been worked on to participate in the Solutions Challenge competition presented by Google
 
+REco  is a mobile-based application written in Flutter enables users to enables users to mainly preserve the environment by reducing the amount of waste around the world through recycling!
+- The user displays the types of materials to be recycled by:
+      - Click on the article
+      - Photograph the article
+      - Search by article name
+- The application shows the user the available ways to recycle this product
+- The app shows the logged in user their recycling progress
 
-
-- m
+What's next:
+- personal account
+- The ability to follow people's accounts and see their progress
+- Cooperating with ministerial bodies that advance and support recycling
 - g
 - e
 1.
