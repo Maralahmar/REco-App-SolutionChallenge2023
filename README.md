@@ -5,7 +5,7 @@ It is a project based on recycling to protect the environment also, it has been 
 1. [Feauters](#Feauters)
 2. [Built With](#Built-With)
 3. [Authors](#Authors)
-4. [What's next](#What's-next)
+4. [What's next](#Whats-next)
 5. [Demo](#Demo)
 
 ![Image text](https://l.top4top.io/p_2647glwqa1.png)
