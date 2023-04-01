@@ -1,6 +1,6 @@
 # Reco-app
-Reco-app
-It's a project based on recycling to protect and heal the environment whilst developing new ideas and ways of re-using it, it has been worked on for the participation in the Solutions Challenge competition presented by Google(2023).
+## Reco-app
+### It's a project based on recycling to protect and heal the environment whilst developing new ideas and ways of re-using it, it has been worked on for the participation in the Solutions Challenge competition presented by Google(2023).
 
 ## Table of Contents
 1. [Feauters](#Feauters)
@@ -16,12 +16,12 @@ It's a project based on recycling to protect and heal the environment whilst dev
 ## Feauters:
 REco is a mobile-based application written in Dart using Flutter framework, it enables users to mainly preserve the environment by reducing the amount of waste around the world through recycling!
 
--The user displays the types of materials to be recycled by:
-      - Click on the article
-      - Photograph the article
-      - Search by article name
--The application shows the user different ways to recycle this product
--The app shows the logged in user and their recycling collection.
+- The user displays the types of materials to be recycled by:
+  - Click on the article
+  - Photograph the article
+  - Search by article name
+- The application shows the user different ways to recycle this product
+- The app shows the logged in user and their recycling collection.
 
 ## Built With:
 - Flutter
@@ -32,8 +32,8 @@ REco is a mobile-based application written in Dart using Flutter framework, it e
 - Android Studio 
 
 ## Software Engineers:
-* Mhmoud Jundo
-* Mariam Alahmar
+> Mhmoud Jundo
+> Mariam Alahmar
 
 ## What's next:
 - Personal account.
