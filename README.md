@@ -6,7 +6,7 @@
 ## Table of Contents
 1. [Feauters](#Feauters)
 2. [Built With](#Built-With)
-3. [Authors](#Authors)
+3. [Software Engineers](#Software-Engineers)
 4. [What's next](#Whats-next)
 5. [Demo](#Demo)
 
@@ -33,8 +33,7 @@ REco is a mobile-based application written in Dart using Flutter framework, it e
 - Android Studio.
 
 ## Software Engineers:
-- *Mhmoud Jundo*
-- *Mariam Alahmar*
+> *Mhmoud Jundo & Mariam Alahmar*
 
 ## What's next:
 - Personal account.
