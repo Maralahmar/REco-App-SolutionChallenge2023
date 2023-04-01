@@ -21,8 +21,7 @@ REco  is a mobile-based application written in Flutter enables users to enables 
 - The application shows the user the available ways to recycle this product
 - The app shows the logged in user their recycling progress
 
-![Image text](\Marlo\Desktop\SolutionChallenge.png)
-
+![Image text](https://drive.google.com/file/d/1C88QPuT15bHFshRyqfex9KjOqtLadYvN/view?usp=sharing)
 
 ## Built With:
 - Firebase - Cloud Firestore,Firebase Authentication
