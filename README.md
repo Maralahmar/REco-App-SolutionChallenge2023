@@ -1,14 +1,15 @@
 # Reco-app
 It is a project based on recycling to protect the environment also, it has been worked on to participate in the Solutions Challenge competition presented by Google
-***
+
 ## Table of Contents
 1. [Feauters](#Feauters)
-2. [Built With](#Built With)
+2. [Built With](#Built-With)
 3. [Authors](#Authors)
-4. [What's next](#What's next)
+4. [What's next](#What's-next)
 5. [Demo](#Demo)
 
-
+***
+***
 <a name="Feauters"></a>
 
 ## Feauters:
@@ -20,28 +21,27 @@ REco  is a mobile-based application written in Flutter enables users to enables 
 - The application shows the user the available ways to recycle this product
 - The app shows the logged in user their recycling progress
 
-![Image text](D:\Marlo\Desktop\SolutionChallenge.png)
+![Image text](\Marlo\Desktop\SolutionChallenge.png)
 
-***
+
 ## Built With:
-Firebase - Cloud Firestore,Firebase Authentication
-Android Studio - Integrated development environment for the Android platform
---
+- Firebase - Cloud Firestore,Firebase Authentication
+- Android Studio - Integrated development environment for the Android platform
+
 ## Authors:
-Mhmoud Jundo
-Mariam Alahmar
---
+* Mhmoud Jundo
+* Mariam Alahmar
+
 ## What's next:
 - personal account
 - The ability to follow people's accounts and see their progress
 - Cooperating with ministerial bodies that advance and support recycling
 
----
 ## Demo:
 
 
 ## Technologies
-***
+
 A list of technologies used within the project:
 * [Technology name](https://example.com): Version 12.3 
 * [Technology name](https://example.com): Version 2.34
@@ -72,13 +72,6 @@ A list of frequently asked questions
 1. **This is a question in bold**
 Answer to the first question with _italic words_. 
 2. __Second question in bold__ 
-To answer this question, we use an unordered list:
-* First point
-* Second Point
-* Third point
 3. **Third question in bold**
 Answer to the third question with *italic words*.
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
+
