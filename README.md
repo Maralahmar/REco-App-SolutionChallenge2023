@@ -33,7 +33,7 @@ REco is a mobile-based application written in Dart using Flutter framework, it e
 - Android Studio.
 
 ## Software Engineers:
- *Mariam Alahmar & Mhmoud Jundo
+ *Mariam Alahmar & Mhmoud Jundo*
 
 ## What's next:
 - Personal account.
