@@ -1,5 +1,6 @@
 # Reco-app
-It is a project based on recycling to protect the environment also, it has been worked on to participate in the Solutions Challenge competition presented by Google
+Reco-app
+It's a project based on recycling to protect and heal the environment whilst developing new ideas and ways of re-using it, it has been worked on for the participation in the Solutions Challenge competition presented by Google(2023).
 
 ## Table of Contents
 1. [Feauters](#Feauters)
@@ -13,27 +14,31 @@ It is a project based on recycling to protect the environment also, it has been 
 <a name="Feauters"></a>
 
 ## Feauters:
-REco  is a mobile-based application written in Flutter enables users to enables users to mainly preserve the environment by reducing the amount of waste around the world through recycling!
-- The user displays the types of materials to be recycled by:
+REco is a mobile-based application written in Dart using Flutter framework, it enables users to mainly preserve the environment by reducing the amount of waste around the world through recycling!
+
+-The user displays the types of materials to be recycled by:
       - Click on the article
       - Photograph the article
       - Search by article name
-- The application shows the user the available ways to recycle this product
-- The app shows the logged in user their recycling progress
-
+-The application shows the user different ways to recycle this product
+-The app shows the logged in user and their recycling collection.
 
 ## Built With:
-- Firebase - Cloud Firestore,Firebase Authentication
-- Android Studio - Integrated development environment for the Android platform
+- Flutter
+- Dart 
+- Android Studio 
+- TensorFlow 
+- Firebase 
+- Android Studio 
 
-## Authors:
+## Software Engineers:
 * Mhmoud Jundo
 * Mariam Alahmar
 
 ## What's next:
-- personal account
-- The ability to follow people's accounts and see their progress
-- Cooperating with ministerial bodies that advance and support recycling
+- Personal account.
+- The ability to follow people's accounts and see their progress.
+- Cooperating with different service and ministerial bodies to advance and support recycling.
 
 ## Demo:
 
