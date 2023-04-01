@@ -8,7 +8,7 @@ It is a project based on recycling to protect the environment also, it has been 
 4. [What's next](#What's-next)
 5. [Demo](#Demo)
 
-***
+![Image text](https://l.top4top.io/p_2647glwqa1.png)
 ***
 <a name="Feauters"></a>
 
@@ -21,7 +21,6 @@ REco  is a mobile-based application written in Flutter enables users to enables 
 - The application shows the user the available ways to recycle this product
 - The app shows the logged in user their recycling progress
 
-![Image text](https://l.top4top.io/p_2647glwqa1.png)
 
 ## Built With:
 - Firebase - Cloud Firestore,Firebase Authentication
