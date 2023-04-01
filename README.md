@@ -1,6 +1,17 @@
-# Reco-app 
+# Reco-app
 It is a project based on recycling to protect the environment also, it has been worked on to participate in the Solutions Challenge competition presented by Google
+***
+## Table of Contents
+1. [Feauters](#Feauters)
+2. [Built With](#Built With)
+3. [Authors](#Authors)
+4. [What's next](#What's next)
+5. [Demo](#Demo)
 
+
+<a name="Feauters"></a>
+
+## Feauters:
 REco  is a mobile-based application written in Flutter enables users to enables users to mainly preserve the environment by reducing the amount of waste around the world through recycling!
 - The user displays the types of materials to be recycled by:
       - Click on the article
@@ -9,44 +20,24 @@ REco  is a mobile-based application written in Flutter enables users to enables 
 - The application shows the user the available ways to recycle this product
 - The app shows the logged in user their recycling progress
 
-What's next:
+![Image text](D:\Marlo\Desktop\SolutionChallenge.png)
+
+***
+## Built With:
+Firebase - Cloud Firestore,Firebase Authentication
+Android Studio - Integrated development environment for the Android platform
+--
+## Authors:
+Mhmoud Jundo
+Mariam Alahmar
+--
+## What's next:
 - personal account
 - The ability to follow people's accounts and see their progress
 - Cooperating with ministerial bodies that advance and support recycling
-- g
-- e
-1.
-1.
-1.
-"1" o;isafgcb
-2 lkgh;
-3 kjg; 
-***
-% ksjgfs.
-## skwflgb ##
 
-
-
-# Headline H1
-## Headline H2
-### Headline H3
-#### Headline H4 
-##### Headline H5
-###### Headline H6## 
-Table of Contents
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
-## Table of Contents
-<a name="general-info"></a>
-### General Info
-## General Info
-***
-Write down general information about your project. It is a good idea to always put a project status in the readme file. This is where you can add it. 
-### Screenshot
-![Image text](/path/to/the/screenshot.png)
+---
+## Demo:
 
 
 ## Technologies
@@ -75,58 +66,6 @@ Provide instructions on how to collaborate with your project.
 > Should it encompass several lines?
 > This is how you do it.
 
-## FAQs
-***
-A list of frequently asked questions
-1. **This is a question in bold**
-Answer to the first question with _italic words_. 
-2. __Second question in bold__ 
-To answer this question, we use an unordered list:
-* First point
-* Second Point
-* Third point
-3. **Third question in bold**
-Answer to the third question with *italic words*.
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
-
-
-
-## Table of Contents
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
-### General Info
-***
-Write down general information about your project. It is a good idea to always put a project status in the readme file. This is where you can add it. 
-### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
-## Technologies
-***
-A list of technologies used within the project:
-* [Technology name](https://example.com): Version 12.3 
-* [Technology name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
-## Installation
-***
-A little intro about the installation. 
-```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
-## Collaboration
-***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> Should it encompass several lines?
-> This is how you do it.
 ## FAQs
 ***
 A list of frequently asked questions
