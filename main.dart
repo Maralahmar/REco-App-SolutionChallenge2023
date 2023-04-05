@@ -1,10 +1,8 @@
 import 'dart:developer';
-
 import 'package:camera/camera.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-//import 'package:reco/startuptemplate.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
 
@@ -45,7 +43,7 @@ class MyApp extends StatelessWidget {
               child: const MaterialApp(
                 debugShowCheckedModeBanner: false,
                 title: 'REco',
-                home: SignIn(),
+                home: SignUp(),
               ),
             );
           }
@@ -245,21 +243,6 @@ class REcoTemplate extends State<HomePage> {
                 Text('$recycles2 Recycles'),
                 const SizedBox(
                   height: 45,
-                ),
-                FloatingActionButton.extended(
-                  onPressed: () {
-                    //build(context).createElement()
-                    return;
-                  },
-                  label: const Text(
-                    'Update',
-                    style: TextStyle(fontSize: 18, color: Color(0xFF2C3333)),
-                  ),
-                  backgroundColor: const Color(0xFFAACB73),
-                  icon: const Icon(
-                    Icons.update,
-                    color: Color(0xFF2C3333),
-                  ),
                 ),
               ],
             ),
