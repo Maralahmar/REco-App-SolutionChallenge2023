@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>978854577236-45p2c0vc5c6r2dng392ro89t710qs19f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.978854577236-45p2c0vc5c6r2dng392ro89t710qs19f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCBgcksZy4zr6PT1oM4fgydo-4JDwukxPA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>978854577236</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.reco</string>
+	<key>PROJECT_ID</key>
+	<string>reco-7e270</string>
+	<key>STORAGE_BUCKET</key>
+	<string>reco-7e270.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:978854577236:ios:72fe3482f941adf1b119c1</string>
+	<key>DATABASE_URL</key>
+	<string>https://reco-7e270-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
