@@ -38,14 +38,11 @@ class MyApp extends StatelessWidget {
           } else if (snapshot.hasData) {
             return const HomePage();
           } else {
-            return WillPopScope(
-              onWillPop: () async => false,
-              child: const MaterialApp(
+            return  const MaterialApp(
                 debugShowCheckedModeBanner: false,
                 title: 'REco',
                 home: SignUp(),
-              ),
-            );
+              );
           }
         },
       ),
